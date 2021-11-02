@@ -14,12 +14,12 @@ class Config(object):
     # REQUIRED
     # Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = 123456  # integer value, dont use ""
-    API_HASH = "awoo"
-    TOKEN = "BOT_TOKEN"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    API_ID = 7211896  # integer value, dont use ""
+    API_HASH = "d22a4d25860c6673209ea07dc194857a"
+    TOKEN = "2064609555:AAGeElYciRg-nIKYEsH-53zZkklxB3oyt54"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 792109647  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "Kittu"
-    SUPPORT_CHAT = "Kora_Support"  # Your own group for support, do not add the @
+    OWNER_USERNAME = "sta_noelle"
+    SUPPORT_CHAT = "animesecretchats"  # Your own group for support, do not add the @
     JOIN_LOGGER = (
         -1001253661229
     )  # Prints any new group the bot is added to, prints just the name and ID.
